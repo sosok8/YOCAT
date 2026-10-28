@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(1.5,0.375)">
+
+<g id="Group 633780">
+<path id="Rectangle 1928" d="M16.5 0.75C18.5711 0.75 20.25 2.42893 20.25 4.5V12.5C20.25 14.5711 18.5711 16.25 16.5 16.25H4.5C2.42893 16.25 0.75 14.5711 0.75 12.5V4.5C0.75 2.42893 2.42893 0.75 4.5 0.75H16.5Z" stroke="black" stroke-width="1.5" stroke-linejoin="round"/>
+<circle id="Ellipse 671" cx="6.5" cy="7.5" r="1" fill="black"/>
+<circle id="Ellipse 672" cx="10.5" cy="7.5" r="1" fill="black"/>
+<circle id="Ellipse 673" cx="14.5" cy="7.5" r="1" fill="black"/>
+<path id="Line 52" d="M7.5 11.5H13.5" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Path 3" d="M13.5 19.5L10.5 22.5L7.5 19.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+</g>
+</svg>

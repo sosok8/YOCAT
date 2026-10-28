@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Xcode — build & user state
+build/
+DerivedData/
+*.xcuserstate
+**/xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager (local caches — Package.resolved IS committed)
+.swiftpm/
+.build/
+
+# Dev scratch artifacts at project root (screenshots / raw exports — not used to build)
+# (앱 소스는 YOCAT/ 와 YOCAT.xcodeproj/ 안에 있음. 아래는 작업 중 생긴 미리보기·export)
+/*.png
+/*.mp4
+/home_assets/
+/image_assets/
+/splash_assets/
+
+# Misc
+*.log

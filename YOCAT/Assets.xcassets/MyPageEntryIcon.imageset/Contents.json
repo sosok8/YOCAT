@@ -1,0 +1,6 @@
+{
+  "images" : [
+    { "idiom":"universal", "filename":"my@3x.png", "scale":"3x" }
+  ],
+  "info" : { "author":"xcode", "version":1 }
+}
